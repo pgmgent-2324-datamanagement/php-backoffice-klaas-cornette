@@ -9,25 +9,24 @@
             </a>
         </li>
         <li class="nav-item">
-            <a href="articles.php" class="nav-link align-middle px-0">
-                <i class="fs-4 fa fa-fw fa-database"></i> <span class="ms-1 d-none d-sm-inline">Articles</span>
+            <a href="/events/index.php" class="nav-link align-middle px-0">
+                <i class="fs-4 fa fa-fw fa-database"></i> <span class="ms-1 d-none d-sm-inline">Events</span>
             </a>
-        </li>
+        </li>   
         <li class="nav-item">
-            <a href="#" class="nav-link align-middle px-0">
-                <i class="fs-4 fa fa-fw fa-list"></i> <span class="ms-1 d-none d-sm-inline">Categories</span>
+            <a href="/tickets/index.php" class="nav-link align-middle px-0">
+                <i class="fs-4 fa fa-fw fa-database"></i> <span class="ms-1 d-none d-sm-inline">Tickets</span>
             </a>
-        </li>
+        </li>  
         <li class="nav-item">
-            <a href="#" class="nav-link align-middle px-0">
-                <i class="fs-4 fa fa-fw fa-users"></i> <span class="ms-1 d-none d-sm-inline">Customers</span>
+            <a href="/bookings/index.php" class="nav-link align-middle px-0">
+                <i class="fs-4 fa fa-fw fa-database"></i> <span class="ms-1 d-none d-sm-inline">Bookings</span>
             </a>
-        </li>
-        
+        </li>  
     </ul>
     <div class="dropdown pb-4">
-        <a href="#" class="d-flex align-items-center text-white text-decoration-none dropdown-toggle" id="dropdownUser1" data-bs-toggle="dropdown" aria-expanded="false">
-            <img src="https://github.com/mdo.png" alt="user" width="30" height="30" class="rounded-circle">
+        <a href="/fileshare/index.php" class="d-flex align-items-center text-white text-decoration-none dropdown-toggle" id="dropdownUser1" data-bs-toggle="dropdown" aria-expanded="false">
+            <img src="/fileshare/uploads/user.jpg" alt="user" width="30" height="30" class="rounded-circle">
             <span class="d-none d-sm-inline mx-1">user</span>
         </a>
         <ul class="dropdown-menu dropdown-menu-dark text-small shadow" aria-labelledby="dropdownUser1">

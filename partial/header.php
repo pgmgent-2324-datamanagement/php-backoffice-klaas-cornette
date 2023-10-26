@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Admin</title>
     <link rel="stylesheet" href="/css/admin.min.css">
+    <link rel="stylesheet" href="/css/chart.css">
 </head>
 <body>
 <div class="container-fluid">

@@ -1,6 +1,7 @@
 {
     "require": {
         "twbs/bootstrap": "5.3.2",
-        "vlucas/phpdotenv": "^5.5"
+        "vlucas/phpdotenv": "^5.5",
+        "components/chartjs": ">=2.9"
     }
 }

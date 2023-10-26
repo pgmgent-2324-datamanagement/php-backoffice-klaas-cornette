@@ -1,5 +1,5 @@
 <?php
-
+session_start();
 //Current working directory
 $dir = __DIR__;
 
@@ -15,4 +15,9 @@ include_once "$dir/includes/db.php";
 
 //FUNCTIONS
 include_once "$dir/functions/global.php";
-include_once "$dir/functions/articles.php";
+include_once "$dir/functions/events.php";
+include_once "$dir/functions/users.php";
+include_once "$dir/functions/tickets.php";
+include_once "$dir/functions/bookings.php";
+
+ checkLogin();

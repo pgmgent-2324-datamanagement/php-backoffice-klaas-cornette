@@ -1,0 +1,39 @@
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    
+}
+.cart {
+    border: 2px solid rgb(14, 14, 141);
+    border-radius: 2rem;
+    padding: 5rem;
+    position: relative;
+}
+
+.files {
+    padding-top: 1rem;
+    padding-bottom: 5rem;
+}
+
+
+.redbutton {
+    position: absolute;
+    top: 1.5rem;
+    left: 1.5rem;
+    padding: 0.7rem 1.5rem;
+    background-color: rgb(194, 24, 24); 
+    color: #fff; 
+    text-decoration: none;
+    border-radius: 0.5rem;
+    margin-bottom: 2rem;
+}
+  
+  .cart .redbutton:hover  {
+    background-color: rgb(230, 9, 9);
+    text-decoration: none;
+    color: #fff;
+  }
+
+  
